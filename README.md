@@ -12,6 +12,7 @@ Instructions
 
 - Print all parts
 - Test fittings e drill/adjust holes for screws
+- Insert plastic extensors for rear buttons
 
 ![plot](./Images/print.jpg)
 
@@ -20,13 +21,14 @@ Instructions
 	22: ENTER
 	
 	21: PAGE
-	
+
+- Insert Maix Bit board with camera assembled	
 - Use the printed bar with screws to fix the baord
 	
 ![plot](./Images/assembly.jpg)
 
 - Place the display in place
-- Plase the case front, taking care don't "byte" wires
+- Place the case front, taking care don't "byte" wires
 - Use other two screws to close the case
 
 ![plot](./Images/front.jpeg)
