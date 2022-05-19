@@ -22,7 +22,7 @@ Instructions
 	
 	21: PAGE
 
-- Insert Maix Bit board with camera assembled	
+- Insert Maix Bit board with camera assembled and display connected	
 - Use the printed bar with screws to fix the baord
 	
 ![plot](./Images/assembly.jpg)
